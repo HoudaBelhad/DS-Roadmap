@@ -1,8 +1,3 @@
-Absolument \! Voici un fichier **README.md** principal en anglais qui résume l'objectif de votre projet, sa structure, et qui encourage les développeurs de tous niveaux à l'utiliser comme référence.
-
------
-
-## 📄 Main Project README.md (English)
 
 # 📚 The Software Engineer's Java Data Structures & Algorithms (DSA) Roadmap
 
@@ -20,17 +15,7 @@ The project is organized by core DSA concepts. Each major concept has its own de
 
 
 
-DS\_Rodmap/
-├── Arrays/                    \# Folder for Array concepts (1D, 2D, etc.)
-│   ├── arrays.java            \# Well-documented Java implementation
-│   └── demo/
-│       └── demo.md            \# Simple explanation and execution guide
-├── Lists/                     \# Folder for List concepts (ArrayList, LinkedList)
-├── Stacks\_Queues/             \# Folder for Stack and Queue concepts
-├── Trees\_Graphs/              \# Folder for Trees (BST, AVL) and Graph concepts
-└── README.md                  \# This file
 
-````
 
 ---
 
