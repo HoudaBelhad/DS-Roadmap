@@ -4,7 +4,6 @@ Absolument \! Voici un fichier **README.md** principal en anglais qui résume l'
 
 ## 📄 Main Project README.md (English)
 
-```markdown
 # 📚 The Software Engineer's Java Data Structures & Algorithms (DSA) Roadmap
 
 ## Welcome to the DSA Fundamentals Repository! 🚀
@@ -19,7 +18,7 @@ Whether you are a beginner looking to understand the fundamentals or an experien
 
 The project is organized by core DSA concepts. Each major concept has its own dedicated folder.
 
-```
+
 
 DS\_Rodmap/
 ├── Arrays/                    \# Folder for Array concepts (1D, 2D, etc.)
@@ -63,4 +62,4 @@ Inside each concept folder, you will find an explanatory **Markdown file (`.md`)
 4.  **Practice:** Examine the `.java` code, compile, and run it to see the concepts in action!
 
 Enjoy your coding journey!
-````
+
